@@ -3,7 +3,7 @@
 Olá, Bem-vindo ao meu projeto!
 Nessa aula, tive como proposta reacriar a página inicial do site de streaming _Netflix_, com a liberdade de executar da forma como eu queria, seguindo apenas algumas funções apresentadas em aula.
 
-- Minha apresentação se refere ao NETFLIX HORSE, ela foi desenvolvida pensando em crianças, que assim como a minha filha, são apaixonadas por desenhos/séries/filmes que fazem mensão a cavalos. 🐴
+- Minha apresentação se refere ao NETFLIX HORSE, ela foi desenvolvida pensando em crianças, que assim como a minha filha, são apaixonadas por desenhos/séries/filmes que fazem menção a cavalos. 🐴
 - Utilizei as tecnologias HTML5, CSS3 e JS
 - Nesse projeto foi apresentados os seguintes preceitos:
     1. Estruturar um layout
